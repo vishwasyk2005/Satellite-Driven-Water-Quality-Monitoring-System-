@@ -129,10 +129,3 @@ The dashboard will open automatically in your browser.
 * Clickable markers with value and date information
 
 ---
-
-
-
-
-
-
-⭐ If you find this project useful, consider starring ⭐ the repository!
